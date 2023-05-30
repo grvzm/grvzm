@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/grvzm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="grvzm" height="30" width="40" /></a>
-<a href="https://twitter.com/grvxm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="grvxm" height="30" width="40" /></a>
+<a href="https://twitter.com/grvxm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="grvxm" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/grvzm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="grvz" height="30" width="40" /></a>
 </p>
 
 
